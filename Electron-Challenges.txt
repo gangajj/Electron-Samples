@@ -23,3 +23,5 @@ Issues faced on Electron:
 7. Windows Installer - Bit confusion to understand about the windows squirrel events.
 
 8. Network trace is not so easy
+
+9. Crash report
