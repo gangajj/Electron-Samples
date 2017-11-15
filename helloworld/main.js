@@ -10,7 +10,7 @@ var mainWindow;
 app.on('ready',function(){
 	/*mainWindow = new BrowserWindow({width: 1024, height: 768, backgroundColor: '#2e2c29'});
 	let displays = electron.screen.getAllDisplays()
-	//mainWindow.loadURL('http://dev.kore.net/Kore');
+	//mainWindow.loadURL('http://www.google.com');
 	
 	mainWindow.loadURL(url.format({
 		pathname: path.join(__dirname, 'index.html'),
