@@ -16,7 +16,8 @@
     "build": "electron-packager . --out=dist --asar --overwrite --all"
   },
   "dependencies": {
-    "electron-debug": "^1.0.0"
+    "electron-debug": "^1.0.0",
+    "filepreview": "^1.0.14"
   },
   "devDependencies": {
     "devtron": "^1.1.0",

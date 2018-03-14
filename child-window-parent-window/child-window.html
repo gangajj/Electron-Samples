@@ -14,6 +14,7 @@ function receiveNotificationFromParent(txt){
 	if(txt === "close"){
 		window.close();
 	}else{
+		console.log("Received Notification From Parent");
 		alert("Received Notification From Parent"+txt);
 	}
 }
